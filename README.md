@@ -4,7 +4,7 @@
 
 | 插件 | 用途 |
 | --- | --- |
-| [dsh-plugin-mini-pet](https://github.com/MakeEpoch/dsh-plugin-mini-pet) | DSH 会话状态宠物，提供豆沙角色与交互设置。 |
+| [dsh-plugin-mini-pet](https://github.com/MakeEpoch/dsh-plugin-mini-pet) | DSH 会话状态宠物，提供小音、豆沙角色与交互设置。 |
 | [dsh-plugin-comfyui](https://github.com/MakeEpoch/dsh-plugin-comfyui) | 接入 ComfyUI，在 DSH 中生成图片并查看队列与图库。 |
 | [dsh-plugin-conversation-journal](https://github.com/MakeEpoch/dsh-plugin-conversation-journal) | 整理 DSH 与 Codex 对话，生成日报、知识库并可同步 Notion。 |
 | [dsh-plugin-media-workflow](https://github.com/MakeEpoch/dsh-plugin-media-workflow) | 文章、图文与视频制作工作流，包含 DSH 工作台与评审。 |
