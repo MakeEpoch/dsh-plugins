@@ -12,6 +12,10 @@
 
 各项目的依赖、DSH 兼容版本、安装与使用限制以各自 README 为准。
 
+## 关联项目
+
+- [PiDesk 同步插件](https://github.com/MakeEpoch/maker-pidesk/tree/main/plugin/pidesk-sync)：将 DSH / Codex 任务状态推送到 PiDesk 信息屏；与设备应用共同维护，可独立打包。
+
 ## 命名与贡献
 
 生态目录采用 `dsh-plugins`，各插件仓库采用 `dsh-plugin-<name>`。请在相应仓库提交 issue 或贡献；提交前移除凭据、私人数据、日志及本机生成的产物。
