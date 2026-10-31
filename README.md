@@ -4,6 +4,7 @@
 
 | 插件 | 用途 |
 | --- | --- |
+| [dsh-mek-codex](https://github.com/MakeEpoch/dsh-mek-codex) | 在 DSH 中浏览和继续 Codex 会话，支持流式输出、审批与断线核对。 |
 | [dsh-mek-bot](https://github.com/MakeEpoch/dsh-mek-bot) | 原生集成 DS-Bot，提供长期 Bot、团队委派与群聊，保留 DSH 原有界面。 |
 | [dsh-mek-mini-pet](https://github.com/MakeEpoch/dsh-mek-mini-pet) | DSH 会话状态宠物，提供小音、豆沙角色与交互设置。 |
 | [dsh-mek-comfyui](https://github.com/MakeEpoch/dsh-mek-comfyui) | 接入 ComfyUI，在 DSH 中生成图片并查看队列与图库。 |
